@@ -7,12 +7,12 @@
 </head>
 <body>
     <h1>Cursos de DevOps</h1>
-    <ul>
-        <li>Vagrant: Gerenciando máquinas virtuais</li>
-        <li>Docker: Criando containers sem dor de cabeca</li>
-        <li>Ansible: Sua infraestrutura como código</li>
-        <li>Integração Contínua: Maturidade e Produtividade no desenvolvimento de software</li>
-	<li>Kubernetes: Introdução a orquestração de containers</li>
-    </ul>
+    <dl>
+        <dd>Vagrant: Gerenciando máquinas virtuais</dd>
+        <dd>Docker: Criando containers sem dor de cabeca</dd>
+        <dd>Ansible: Sua infraestrutura como código</dd>
+        <dd>Integração Contínua: Maturidade e Produtividade no desenvolvimento de software</dd>
+	<dd>Kubernetes: Introdução a orquestração de containers</dd>
+    </dl>
 </body>
 </html>
